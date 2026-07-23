@@ -1,64 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 <channel>
 
 <title>Podcast Discipline</title>
-<link>https://Msh-Elie.github.io/Podcast-Discipline/</link>
+<link>https://msh-elie.github.io/Podcast-Discipline/</link>
 <language>fr-fr</language>
-<description>Collection personnelle de podcasts sur la discipline et le développement personnel.</description>
+<copyright>© 2026 Msh-Elie</copyright>
 
+<description>
+Collection personnelle de podcasts sur la discipline, le développement personnel et la croissance personnelle.
+</description>
+
+<lastBuildDate>Thu, 23 Jul 2026 12:00:00 GMT</lastBuildDate>
+
+<itunes:type>serial</itunes:type>
 <itunes:author>Msh-Elie</itunes:author>
-<itunes:summary>Collection personnelle de podcasts sur la discipline et le développement personnel.</itunes:summary>
+
+<itunes:owner>
+    <itunes:name>Msh-Elie</itunes:name>
+    <itunes:email>example@example.com</itunes:email>
+</itunes:owner>
+
+<itunes:summary>
+Collection personnelle de podcasts sur la discipline et le développement personnel.
+</itunes:summary>
+
 <itunes:explicit>false</itunes:explicit>
 
+<itunes:category text="Education">
+    <itunes:category text="Self-Improvement"/>
+</itunes:category>
+
+<!-- IMPORTANT :
+Ajoute une image nommée cover.jpg (3000x3000 px)
+à la racine du dépôt.
+-->
+
+<itunes:image href="https://msh-elie.github.io/Podcast-Discipline/cover.jpg"/>
+
+<!-- Episode 1 -->
+
 <item>
+
 <title>3 choses que j'aurais rêvé savoir à 20 ans</title>
-<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/3-choses-que-j-aurais-reve-savoir-a-20-ans.mp3"
-length="1"
+
+<description>
+Les enseignements qui auraient changé ma vie si je les avais connus plus tôt.
+</description>
+
+<pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+
+<guid isPermaLink="false">episode-1</guid>
+
+<enclosure
+url="https://msh-elie.github.io/Podcast-Discipline/3-choses-20-ans.mp3"
+length="2494388"
 type="audio/mpeg"/>
-<guid>ep1</guid>
+
+<itunes:explicit>false</itunes:explicit>
+
 </item>
 
+<!-- Episode 2 -->
+
 <item>
+
 <title>Autodiscipline</title>
-<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/autodiscipline.mp3"
-length="1"
+
+<description>
+Développer une autodiscipline durable.
+</description>
+
+<pubDate>Thu, 23 Jul 2026 12:01:00 GMT</pubDate>
+
+<guid isPermaLink="false">episode-2</guid>
+
+<enclosure
+url="https://msh-elie.github.io/Podcast-Discipline/autodiscipline.mp3"
+length="23866931"
 type="audio/mpeg"/>
-<guid>ep2</guid>
+
+<itunes:explicit>false</itunes:explicit>
+
 </item>
 
+<!-- Episode 3 -->
+
 <item>
+
 <title>Estime de soi (Partie 1)</title>
-<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/estime-de-soi-1.mp3"
-length="1"
+
+<description>
+Comprendre les bases de l'estime de soi.
+</description>
+
+<pubDate>Thu, 23 Jul 2026 12:02:00 GMT</pubDate>
+
+<guid isPermaLink="false">episode-3</guid>
+
+<enclosure
+url="https://msh-elie.github.io/Podcast-Discipline/estime-de-soi-1.mp3"
+length="8747788"
 type="audio/mpeg"/>
-<guid>ep3</guid>
+
+<itunes:explicit>false</itunes:explicit>
+
 </item>
 
+<!-- Episode 4 -->
+
 <item>
+
 <title>Estime de soi (Partie 2)</title>
-<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/estime-de-soi-2.mp3"
-length="1"
+
+<description>
+Suite de l'épisode sur l'estime de soi.
+</description>
+
+<pubDate>Thu, 23 Jul 2026 12:03:00 GMT</pubDate>
+
+<guid isPermaLink="false">episode-4</guid>
+
+<enclosure
+url="https://msh-elie.github.io/Podcast-Discipline/estime-de-soi-2.mp3"
+length="976312"
 type="audio/mpeg"/>
-<guid>ep4</guid>
+
+<itunes:explicit>false</itunes:explicit>
+
 </item>
 
+<!-- Episode 5 -->
+
 <item>
+
 <title>Tu ne changeras jamais</title>
-<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/tu-ne-changeras-jamais.mp3"
-length="1"
+
+<description>
+Pourquoi certaines croyances empêchent le changement.
+</description>
+
+<pubDate>Thu, 23 Jul 2026 12:04:00 GMT</pubDate>
+
+<guid isPermaLink="false">episode-5</guid>
+
+<enclosure
+url="https://msh-elie.github.io/Podcast-Discipline/tu-ne-changeras-jamais.mp3"
+length="1094506"
 type="audio/mpeg"/>
-<guid>ep5</guid>
+
+<itunes:explicit>false</itunes:explicit>
+
 </item>
 
+<!-- Episode 6 -->
+
 <item>
+
 <title>Tu sais exactement quoi faire</title>
-<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/tu-sais-exactement-quoi-faire.mp3"
-length="1"
+
+<description>
+Passer à l'action sans attendre.
+</description>
+
+<pubDate>Thu, 23 Jul 2026 12:05:00 GMT</pubDate>
+
+<guid isPermaLink="false">episode-6</guid>
+
+<enclosure
+url="https://msh-elie.github.io/Podcast-Discipline/tu-sais-exactement-quoi-faire.mp3"
+length="1727564"
 type="audio/mpeg"/>
-<guid>ep6</guid>
+
+<itunes:explicit>false</itunes:explicit>
+
 </item>
 
 </channel>
