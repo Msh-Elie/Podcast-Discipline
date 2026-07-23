@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+
+<title>Podcast Discipline</title>
+<link>https://Msh-Elie.github.io/Podcast-Discipline/</link>
+<language>fr-fr</language>
+<description>Collection personnelle de podcasts sur la discipline et le développement personnel.</description>
+
+<itunes:author>Msh-Elie</itunes:author>
+<itunes:summary>Collection personnelle de podcasts sur la discipline et le développement personnel.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+
+<item>
+<title>3 choses que j'aurais rêvé savoir à 20 ans</title>
+<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/3-choses-que-j-aurais-reve-savoir-a-20-ans.mp3"
+length="1"
+type="audio/mpeg"/>
+<guid>ep1</guid>
+</item>
+
+<item>
+<title>Autodiscipline</title>
+<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/autodiscipline.mp3"
+length="1"
+type="audio/mpeg"/>
+<guid>ep2</guid>
+</item>
+
+<item>
+<title>Estime de soi (Partie 1)</title>
+<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/estime-de-soi-1.mp3"
+length="1"
+type="audio/mpeg"/>
+<guid>ep3</guid>
+</item>
+
+<item>
+<title>Estime de soi (Partie 2)</title>
+<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/estime-de-soi-2.mp3"
+length="1"
+type="audio/mpeg"/>
+<guid>ep4</guid>
+</item>
+
+<item>
+<title>Tu ne changeras jamais</title>
+<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/tu-ne-changeras-jamais.mp3"
+length="1"
+type="audio/mpeg"/>
+<guid>ep5</guid>
+</item>
+
+<item>
+<title>Tu sais exactement quoi faire</title>
+<enclosure url="https://Msh-Elie.github.io/Podcast-Discipline/tu-sais-exactement-quoi-faire.mp3"
+length="1"
+type="audio/mpeg"/>
+<guid>ep6</guid>
+</item>
+
+</channel>
+</rss>
